@@ -184,15 +184,15 @@ const Portfolio = () => {
                 Basudab Chowdhury
               </h1>
               <h2 className="text-2xl md:text-3xl text-blue-600 font-semibold mb-6">
-                AI and BI Solutions Specialist
+                AI, Data Science & BI Solutions Strategist
               </h2>
               <p className="text-xl text-gray-700 mb-8">
-                Building intelligent systems that shape the future
+                Building intelligent, data-driven systems that automate decisions and shape the future.
               </p>
               <p className="text-gray-600 mb-8 leading-relaxed">
-                AI & BI Solutions Specialist with expertise in developing AI solutions like LLMs and Computer Vision. 
-                Skilled in cloud platforms, machine learning, data analysis, and model optimization. Experienced in 
-                leading teams and delivering actionable insights to drive business decisions.
+                AI & BI Solutions Specialist with deep expertise in Large Language Models (LLMs), Computer Vision, and Business Process Automation. 
+                Skilled in cloud platforms, machine learning, data science, and analytics—translating complex data into actionable intelligence. 
+                Experienced in leading teams, optimizing models, and driving business growth through AI-powered automation and insights.
               </p>
               <div className="flex flex-wrap gap-4">
                 <a
