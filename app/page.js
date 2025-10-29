@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import { Github, Linkedin, Mail, Phone, MapPin, ExternalLink, Briefcase, Calendar, Award, BookOpen, ChevronRight, Code2, Brain, Database, Cloud, Zap, MessageSquare, ArrowRight, FileText } from 'lucide-react';
 import Link from 'next/link';
+import ChatBot from './components/ChatBot';
 
 const Portfolio = () => {
   const [activeSection, setActiveSection] = useState('home');
@@ -487,6 +488,9 @@ const Portfolio = () => {
           </p>
         </div>
       </footer>
+
+      {/* ChatBot Component */}
+      <ChatBot />
     </div>
   );
 };
