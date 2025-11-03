@@ -69,8 +69,10 @@ const ProjectsPage = () => {
         'Reduced communication barriers in healthcare settings'
       ],
       github: 'https://github.com/basudabC/RealtimeTranlate',
+      link: 'https://realtime-healthcare-translation.vercel.app/',
       date: 'Oct-Nov 2024',
       featured: true,
+      mediaFeatured: true,
       category: 'Web Development'
     },
     {
