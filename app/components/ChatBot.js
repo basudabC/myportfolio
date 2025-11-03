@@ -288,7 +288,7 @@ Remember: Be conversational, not encyclopedic. Answer what's asked, offer more i
       {!isOpen && (
         <button
           onClick={() => setIsOpen(true)}
-          className="fixed bottom-5 right-2 bg-gradient-to-r from-blue-600 to-blue-700 text-white rounded-full p-4 shadow-2xl hover:shadow-blue-500/50 hover:scale-110 transition-all duration-300 z-50 group"
+          className="fixed bottom-5 right-5 bg-gradient-to-r from-blue-700 to-blue-700 text-white rounded-full p-4 shadow-2xl hover:shadow-blue-500/50 hover:scale-110 transition-all duration-300 z-50 group"
           aria-label="Open chat assistant"
         >
           <MessageCircle className="w-6 h-6" />
