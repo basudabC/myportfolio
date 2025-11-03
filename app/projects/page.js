@@ -24,6 +24,24 @@ const ProjectsPage = () => {
       category: 'AI & Machine Learning'
     },
     {
+    "title": "Sales Agent System",
+    "description": "An AI-powered sales agent platform that automates hierarchical sales data analysis, reporting, and actionable insights, enabling departments to make faster, smarter business decisions. Integrates agentic reasoning, retrieval-augmented generation (RAG), and real-time analytics for end-to-end sales intelligence.",
+    "tech": ["Streamlit", "LangGraph", "OpenAI GPT-4o", "Pandas", "Vector DB", "SharePoint Integration", "scikit-learn"],
+    "highlights": [
+        "Built a fully automated sales agent system using Streamlit and LangGraph with GPT-4o-mini for intelligent analysis",
+        "Integrated multiple department-specific Excel workbooks with SharePoint for seamless real-time updates",
+        "Enabled dynamic query responses, report generation, and data visualization for faster decision-making",
+        "Applied 4-tier analytics (Descriptive, Diagnostic, Predictive, Prescriptive) to provide actionable insights from sales KPIs and trends.",
+    ],
+    "github": "https://github.com/basudabC/Sales-Agent-System/tree/main",
+    "applink": "https://akij-sales-agent.streamlit.app/",
+    "date": "November 2025",
+    "featured": true,
+    "category": "AI & Machine Learning"
+    },
+
+
+    {
       title: 'RAG-Powered PDF Parser',
       description: 'Designed and developed a PDF parser leveraging Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs) to extract and summarize data from both structured and unstructured PDFs.',
       tech: ['RAG', 'LLMs', 'NLP', 'Python', 'Vector DB'],
