@@ -350,7 +350,7 @@ const ProjectsPage = () => {
                       className="inline-flex items-center gap-2 px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-all text-sm font-medium"
                     >
                       <ExternalLink className="w-4 h-4" />
-                      {project.mediaFeatured ? 'Read Article' : 'Learn More'}
+                      {project.mediaFeatured ? 'Explore' : 'Learn More'}
                     </a>
                   )}
                 </div>
