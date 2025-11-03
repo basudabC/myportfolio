@@ -33,11 +33,12 @@ const ProjectsPage = () => {
         "Enabled dynamic query responses, report generation, and data visualization for faster decision-making",
         "Applied 4-tier analytics (Descriptive, Diagnostic, Predictive, Prescriptive) to provide actionable insights from sales KPIs and trends.",
     ],
-    "github": "https://github.com/basudabC/Sales-Agent-System/tree/main",
-    "applink": "https://akij-sales-agent.streamlit.app/",
-    "date": "November 2025",
-    "featured": true,
-    "category": "AI & Machine Learning"
+    github: "https://github.com/basudabC/Sales-Agent-System/tree/main",
+    link: "https://akij-sales-agent.streamlit.app/",
+    date: "November 2025",
+    featured: true,
+    mediaFeatured: true,
+    category: "AI & Machine Learning"
     },
 
 
